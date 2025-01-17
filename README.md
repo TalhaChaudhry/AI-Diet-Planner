@@ -26,7 +26,7 @@ To get started with the AI Diet Planner, follow these steps:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/YourUsername/ai-diet-planner.git
+    git clone https://github.com/TalhaChaudhry/AI-Diet-Planner.git
     ```
 2. **Open the project in Android Studio:**
     - Launch Android Studio.
